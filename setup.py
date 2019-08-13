@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import os
 
-version = '1.3.4+imio1'
+version = '1.3.4+imio2.dev0'
 
 setup(
     name='wildcard.foldercontents',
