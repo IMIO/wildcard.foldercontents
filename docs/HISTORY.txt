@@ -4,7 +4,8 @@ Changelog
 1.3.4 (unreleased)
 ------------------
 
-- no changes yet
+- Fork Imio to get ALL folder items with access to INACTIVE items... 
+  Avoid a bug when contributor want to show his (inactive) items because he publish them with a future date.
 
 1.3.3 (2016-07-08)
 ------------------
